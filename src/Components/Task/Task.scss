@@ -1,0 +1,16 @@
+@import '../../colors.scss';
+.task {
+    border: 0.5px solid #0a3d38;
+    cursor: pointer;
+    border-radius: 0.5em;
+    margin: 1em 0;
+    background-color: $Task;
+    color: #f6f5f1;
+    padding: 0.5em;
+    button {
+        background-color: #fae0df;
+        color: rgb(133, 46, 46);
+        border: none;
+        border-radius: 0.5em;
+    }
+}

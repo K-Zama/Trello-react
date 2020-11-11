@@ -1,0 +1,14 @@
+@import './colors.scss';
+body {
+    background: $Background;
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 1.5em;
+}
+
+.input-task {
+    width: 50%;
+    button {
+        background-color: #ffa36c;
+    }
+}
